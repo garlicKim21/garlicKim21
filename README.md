@@ -1,3 +1,5 @@
+<img align="right" width="150" src="https://ratatosk.io/ratatosk.png" alt="Ratatosk mascot"/>
+
 ### Hyuntae Kim · Golden Garlic
 
 > Designing & building cloud native platforms — from the underlay to the overlay.
