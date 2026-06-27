@@ -1,5 +1,3 @@
-<img align="right" width="150" src="https://ratatosk.io/ratatosk.png" alt="Ratatosk mascot"/>
-
 ### Hyuntae Kim · Golden Garlic
 
 > Designing & building cloud native platforms — from the underlay to the overlay.
@@ -14,7 +12,17 @@ Kubernetes platform, managed virtualization, end-to-end observability, and share
 SSO — designed, built, and operated myself.
 
 **Building**
-- [Ratatosk](https://ratatosk.io) — AI-analyzed release intelligence for the CNCF ecosystem: breaking changes, CVEs, and upgrade guidance across 70+ graduated & incubating projects.
+
+<table>
+  <tr>
+    <td width="110" valign="middle" align="center">
+      <a href="https://ratatosk.io"><img src="https://raw.githubusercontent.com/garlicKim21/garlicKim21/main/assets/ratatosk.png" width="88" alt="Ratatosk mascot"/></a>
+    </td>
+    <td valign="middle">
+      <a href="https://ratatosk.io"><b>Ratatosk</b></a> — AI-analyzed release intelligence for the CNCF ecosystem: breaking changes, CVEs, and upgrade guidance across 70+ graduated &amp; incubating projects.
+    </td>
+  </tr>
+</table>
 
 **Certifications**
 
