@@ -11,6 +11,9 @@ To keep the full stack hands-on, I run a production-style homelab: a Talos-based
 Kubernetes platform, managed virtualization, end-to-end observability, and shared
 SSO — designed, built, and operated myself.
 
+**Building**
+- [Ratatosk](https://ratatosk.io) — AI-analyzed release intelligence for the CNCF ecosystem: breaking changes, CVEs, and upgrade guidance across 70+ graduated & incubating projects.
+
 **Certifications**
 
 <p>
