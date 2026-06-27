@@ -13,16 +13,11 @@ SSO — designed, built, and operated myself.
 
 **Building**
 
-<table>
-  <tr>
-    <td width="110" valign="middle" align="center">
-      <a href="https://ratatosk.io"><img src="https://raw.githubusercontent.com/garlicKim21/garlicKim21/main/assets/ratatosk.png" width="88" alt="Ratatosk mascot"/></a>
-    </td>
-    <td valign="middle">
-      <a href="https://ratatosk.io"><b>Ratatosk</b></a> — AI-analyzed release intelligence for the CNCF ecosystem: breaking changes, CVEs, and upgrade guidance across 70+ graduated &amp; incubating projects.
-    </td>
-  </tr>
-</table>
+<a href="https://ratatosk.io"><img align="left" width="84" src="https://raw.githubusercontent.com/garlicKim21/garlicKim21/main/assets/ratatosk.png" alt="Ratatosk mascot"/></a>
+
+**[ratatosk.io](https://ratatosk.io)** — AI-analyzed release intelligence for the CNCF ecosystem: breaking changes, CVEs, and upgrade guidance across 70+ graduated & incubating projects.
+
+<br clear="left"/>
 
 **Certifications**
 
