@@ -31,6 +31,7 @@ SSO — designed, built, and operated myself.
 </p>
 
 **Open-source contributions**
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent/pulls?q=is%3Apr+author%3AgarlicKim21) — CNCF sandbox
 - [siderolabs/omni-infra-provider-vsphere](https://github.com/siderolabs/omni-infra-provider-vsphere/pulls?q=is%3Apr+author%3AgarlicKim21)
 - [AthennaMind/opnsense-exporter](https://github.com/AthennaMind/opnsense-exporter/pulls?q=is%3Apr+author%3AgarlicKim21)
 
