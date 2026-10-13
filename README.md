@@ -10,6 +10,8 @@ observable and operable.
 To keep the full stack hands-on, I run a production-style homelab: a Talos-based
 Kubernetes platform, managed virtualization, end-to-end observability, and shared
 SSO — designed, built, and operated myself.
+How it is built, the decisions behind it, and what broke along the way:
+**[basphere-architecture](https://github.com/garlicKim21/basphere-architecture)**
 
 **Building**
 
