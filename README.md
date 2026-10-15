@@ -34,6 +34,7 @@ How it is built, the decisions behind it, and what broke along the way:
 </p>
 
 **Open-source contributions**
+- [kubernetes-sigs/vsphere-csi-driver](https://github.com/kubernetes-sigs/vsphere-csi-driver/pulls?q=is%3Apr+author%3AgarlicKim21) — Kubernetes SIG Cloud Provider
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent/pulls?q=is%3Apr+author%3AgarlicKim21) — CNCF sandbox
 - [siderolabs/omni-infra-provider-vsphere](https://github.com/siderolabs/omni-infra-provider-vsphere/pulls?q=is%3Apr+author%3AgarlicKim21)
 - [AthennaMind/opnsense-exporter](https://github.com/AthennaMind/opnsense-exporter/pulls?q=is%3Apr+author%3AgarlicKim21)
